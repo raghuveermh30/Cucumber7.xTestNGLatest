@@ -11,8 +11,7 @@ Project Structure
 ![image](https://github.com/user-attachments/assets/26669e44-03c1-4480-a517-c566809e6849)
 
 
-Usage
-Clone the repository: [git clone https://github.com/naveenanimation20/Cucumber7.xTestNGLatestPOC.git](https://github.com/raghuveermh30/Cucumber7.xTestNGLatest)
+
 
 Navigate to the project directory:
 cd Cucumber7.xTestNGLatest
