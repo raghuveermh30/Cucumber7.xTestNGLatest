@@ -12,7 +12,7 @@ Project Structure
 
 
 Usage
-Clone the repository: git clone https://github.com/naveenanimation20/Cucumber7.xTestNGLatestPOC.git
+Clone the repository: [git clone https://github.com/naveenanimation20/Cucumber7.xTestNGLatestPOC.git](https://github.com/raghuveermh30/Cucumber7.xTestNGLatest)
 
 Navigate to the project directory:
 cd Cucumber7.xTestNGLatest
